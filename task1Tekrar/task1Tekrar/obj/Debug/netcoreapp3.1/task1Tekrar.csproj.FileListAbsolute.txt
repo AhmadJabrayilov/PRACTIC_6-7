@@ -1,0 +1,14 @@
+C:\Users\User\Desktop\PRACTIC\task1Tekrar\task1Tekrar\bin\Debug\netcoreapp3.1\task1Tekrar.exe
+C:\Users\User\Desktop\PRACTIC\task1Tekrar\task1Tekrar\bin\Debug\netcoreapp3.1\task1Tekrar.deps.json
+C:\Users\User\Desktop\PRACTIC\task1Tekrar\task1Tekrar\bin\Debug\netcoreapp3.1\task1Tekrar.runtimeconfig.json
+C:\Users\User\Desktop\PRACTIC\task1Tekrar\task1Tekrar\bin\Debug\netcoreapp3.1\task1Tekrar.runtimeconfig.dev.json
+C:\Users\User\Desktop\PRACTIC\task1Tekrar\task1Tekrar\bin\Debug\netcoreapp3.1\task1Tekrar.dll
+C:\Users\User\Desktop\PRACTIC\task1Tekrar\task1Tekrar\bin\Debug\netcoreapp3.1\task1Tekrar.pdb
+C:\Users\User\Desktop\PRACTIC\task1Tekrar\task1Tekrar\obj\Debug\netcoreapp3.1\task1Tekrar.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\PRACTIC\task1Tekrar\task1Tekrar\obj\Debug\netcoreapp3.1\task1Tekrar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\PRACTIC\task1Tekrar\task1Tekrar\obj\Debug\netcoreapp3.1\task1Tekrar.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\PRACTIC\task1Tekrar\task1Tekrar\obj\Debug\netcoreapp3.1\task1Tekrar.AssemblyInfo.cs
+C:\Users\User\Desktop\PRACTIC\task1Tekrar\task1Tekrar\obj\Debug\netcoreapp3.1\task1Tekrar.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\PRACTIC\task1Tekrar\task1Tekrar\obj\Debug\netcoreapp3.1\task1Tekrar.dll
+C:\Users\User\Desktop\PRACTIC\task1Tekrar\task1Tekrar\obj\Debug\netcoreapp3.1\task1Tekrar.pdb
+C:\Users\User\Desktop\PRACTIC\task1Tekrar\task1Tekrar\obj\Debug\netcoreapp3.1\task1Tekrar.genruntimeconfig.cache
