@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "amin_userTask6-7/1.0.0": {
+        "runtime": {
+          "amin_userTask6-7.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "amin_userTask6-7/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
